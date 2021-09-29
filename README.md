@@ -153,11 +153,11 @@ La diferencia es que ya no se guardan los datos ingresados en otros navegadores
 ### Parte I
 
 - **Circle CI**
-
+    <img src="img/circleci.png">
 - **Heroku** 
-
+    <img src="img/heroku.png">
 - **Codacy**
-
+    <img src="img/codacy.png">
 - **Badges** 
 
   - [![CircleCI](https://circleci.com/gh/kristhian21/Lab05CVDS/tree/master.svg?style=svg)](https://circleci.com/gh/kristhian21/Lab05CVDS/tree/master)
