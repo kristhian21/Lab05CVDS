@@ -146,3 +146,21 @@ La diferencia es que ya no se guardan los datos ingresados en otros navegadores
 - Revise qué otros estilos se pueden agregar a los diferentes elementos y qué efecto tienen en la visualización de la página.
 - Actualice la página. Los cambios de estilos realizados desaparecen, pues se realizaron únicamente en la visualización, la respuesta del servidor sigue siendo la misma, ya que el contenido de los archivos allí almacenados no se ha modificado.
 - Revise qué otros cambios se pueden realizar y qué otra información se puede obtener de las herramientas de desarrollador.
+
+
+## Lab06 CVDS
+
+### Parte I
+
+- **Circle CI**
+
+- **Heroku** 
+
+- **Codacy**
+
+- **Badges** 
+
+  - [![CircleCI](https://circleci.com/gh/kristhian21/Lab05CVDS/tree/master.svg?style=svg)](https://circleci.com/gh/kristhian21/Lab05CVDS/tree/master)
+
+  - [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ed06460b1dd648909a490a354ddf2d82)](https://www.codacy.com/gh/kristhian21/Lab05CVDS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kristhian21/Lab05CVDS&amp;utm_campaign=Badge_Grade)
+
