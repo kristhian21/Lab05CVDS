@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/calculadora.xhtml HTTP/1.1" 200 4797 http-bio-8080-exec-2 1085
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/core.js;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces&v=10.0.0 HTTP/1.1" 200 55825 http-bio-8080-exec-6 21
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/jquery/jquery.js;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces&v=10.0.0 HTTP/1.1" 200 89568 http-bio-8080-exec-4 60
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/primeicons/primeicons.css;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces&v=10.0.0 HTTP/1.1" 200 8902 http-bio-8080-exec-1 111
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/components.js;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces&v=10.0.0 HTTP/1.1" 200 477994 http-bio-8080-exec-7 75
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/components.css;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces&v=10.0.0 HTTP/1.1" 200 104869 http-bio-8080-exec-5 213
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/touch/touchswipe.js;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces&v=10.0.0 HTTP/1.1" 200 12474 http-bio-8080-exec-10 55
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/theme.css;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces-saga&v=10.0.0 HTTP/1.1" 200 211527 http-bio-8080-exec-3 279
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:24 -0500] "GET /faces/javax.faces.resource/jquery/jquery-plugins.js;jsessionid=AAC88D9E44E3F1C4680C922ECC1D9C0E?ln=primefaces&v=10.0.0 HTTP/1.1" 200 262369 http-bio-8080-exec-8 59
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:10:57:25 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [29/Sep/2021:11:01:06 -0500] "GET /faces/calculadora.xhtml HTTP/1.1" 500 4004 http-bio-8080-exec-1 77
