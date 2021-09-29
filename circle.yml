@@ -5,5 +5,5 @@ machine:
 deployment:
   staging:
     branch: master
-    heroku: lab6heroku
-      appname: lab6keroku
+    heroku: lab6cvds
+      appname: lab6cvds
