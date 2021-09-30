@@ -164,3 +164,6 @@ La diferencia es que ya no se guardan los datos ingresados en otros navegadores
 
   - [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ed06460b1dd648909a490a354ddf2d82)](https://www.codacy.com/gh/kristhian21/Lab05CVDS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kristhian21/Lab05CVDS&amp;utm_campaign=Badge_Grade)
 
+# Parte II
+<img src="img/conEstilo.png">
+
