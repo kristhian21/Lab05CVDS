@@ -1,3 +1,35 @@
+.send {
+  box-shadow: 0 0 5px 5px #F5D4F3;
+  width: 150px;
+  height: 45px;
+  margin: 15px;
+}
+
+
+.reiniciar {
+  box-shadow: 0 0 5px 5px #DF8C84;
+  width: 150px;
+  height: 45px;
+  margin: 15px;
+}
+
+
+.datos {
+  font-family: 'Fantasy', Marker Felt;
+  font-size: xxx-large;
+}
+
+.resultado {
+  font-family: Brush Script MT;
+  font-size: xx-large;
+}
+
 body {
-    align-items: center;
-  }
+  background: #7E636A;
+  text-align: center;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+}
+
